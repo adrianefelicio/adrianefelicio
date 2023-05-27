@@ -1,5 +1,5 @@
 
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A42FA1&width=435&lines=Hello!+I'm+Adriane!;I+am+a+FullStack+Java+developer" alt="Typing SVG" /></a> </h2></div>
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D87D8D&width=435&lines=Hello!+I'm+Adriane!+;I+am+a+FullStack+Java+developer!+" alt="Typing SVG" /></a> </h2></div>
 
 <div align="center">
     <img width="250" title="lofi study" src="https://github.com/adrianefelicio/adrianefelicio/blob/main/gifs/gif-.gif?raw=true"/>
