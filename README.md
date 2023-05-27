@@ -24,5 +24,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adrianefelicio&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Adriane Felicio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianefelicio&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
+<br>
+    <div align='center'>  <a href="https://www.linkedin.com/in/adriane-felicio-587370111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+    
 ![Snake animation](https://github.com/JesscMendesr/JesscMendesr/blob/output/github-contribution-grid-snake.svg) 
